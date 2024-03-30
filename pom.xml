@@ -19,6 +19,8 @@
     <modules>
         <module>eureka-server</module>
         <module>eureka-student</module>
+        <module>eureka-bank</module>
+        <module>gateway</module>
     </modules>
 
 </project>
